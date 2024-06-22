@@ -15,7 +15,7 @@
     "url": "git+https://github.com/TM-SunnyDay/vscode-to-lowercase-name"
   },
   "license": "MIT",
-  "publisher": "TM-SunnyDay",
+  "publisher": "SunnyDay",
   "categories": [
     "Formatters",
     "Snippets",
