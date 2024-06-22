@@ -1,0 +1,11 @@
+{
+  "toLowercaseName": "名称转小写（To lowercase name）",
+  "toLowercaseName.annotation": "何时显示注释",
+  "toLowercaseName.annotation.disabled": "禁用",
+  "toLowercaseName.annotation.always": "总是显示",
+  "toLowercaseName.annotation.selected": "选中的行 / 光标所在的行",
+  "toLowercaseName.marchRegExp": "匹配的文本将以小写显示",
+  "toLowercaseName.maxLengthOfLine": "如果行的内容超过此长度，则不会对其进行解析",
+  "toLowercaseName.annotationBackgroundColor": "注释背景色",
+  "toLowercaseName.annotationForegroundColor": "注释前景色"
+}

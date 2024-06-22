@@ -1,0 +1,11 @@
+{
+  "toLowercaseName": "To lowercase name",
+  "toLowercaseName.annotation": "When to display annotations",
+  "toLowercaseName.annotation.disabled": "Disabled",
+  "toLowercaseName.annotation.always": "Always display",
+  "toLowercaseName.annotation.selected": "Selected lines / Cursor line",
+  "toLowercaseName.marchRegExp": "The matched text will be displayed in lowercase",
+  "toLowercaseName.maxLengthOfLine": "If the content of the line exceeds this length, it will not be parsed",
+  "toLowercaseName.annotationBackgroundColor": "Annotation background color",
+  "toLowercaseName.annotationForegroundColor": "Annotation foreground color"
+}
