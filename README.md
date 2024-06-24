@@ -1,7 +1,5 @@
 # To lowercase name
 
-_✨ Use css cascade layers in Nuxt ✨_
-
 **English** | [简体中文](./README.zh-CN.md)
 
 A convenient tool for non-native English speakers, let those annoying all capital words take their original form!
